@@ -1,4 +1,4 @@
-# Bobby Douglas – 2157 Portfolio
+# Bobby's MEGR2156 Portfolio
 
 ![MEGR 2156-7 Title](MEGR2156title.png)
 
