@@ -5,6 +5,7 @@ theme:
   name: material
   palette:
     primary: amber
+    accent: amber 
   features:
     - navigation.instant
     - navigation.tracking
