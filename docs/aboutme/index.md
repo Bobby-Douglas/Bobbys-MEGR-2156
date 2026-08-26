@@ -1,2 +1,6 @@
-#About Me
-This is how to edit
+# __About Me__
+
+My Name is Bobby Douglas. I’m a Mechanical Engineer leaning toward an energy concentration at the University of North Carolina at Charlotte. Since a young age, I’ve always been fascinated by moving parts and how forces drive the world; growing up watching siblings study in similar degrees helped lead me to this field, curious about mechanical systems. The concept of moving parts and the theories to explain them were a big driving force throughout; each moving part could contribute to a simple system. And each simple system could contribute to complex robotic structures, aeronautical vehicles, or high-speed racing.
+
+ It wasn’t until college that I ever really took a look at energy production and such as a viable concentration. Originally, like most, leaning toward automotive or aeronautics was the expectation, but I realized it was never the vehicles themselves but the way they generated power. Power became my focus, from hydroelectric to wind to more efficient combustion. Now, as a 3rd-year engineer, I hope to dive deeper into power generation and participate in electronic power generation research and participate in on campus clubs to further my career aspirations. 
+ 
