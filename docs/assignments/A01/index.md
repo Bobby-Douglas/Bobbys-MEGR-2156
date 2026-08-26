@@ -1,12 +1,12 @@
-# A1 – Creating a Portfolio
+# __A1 – Creating a Portfolio__
 
-## Objective
+## __Objective__
 The Objective of this assignment is to create a professional portfolio that will document my journey through being an engineer, showcasing my ability to analyze, make engineering decisions, and technical communication. during the duration of this course I will be documenting my journey and demonstrating my aforementioned abilities.
 
-## Analyze
+## __Analyze__
 Task A:  Portfolio Analysis (25%)
 
-Portfolio 1 – Logan Gehringer https://instructure.charlotte.edu/eportfolios/4365/home/home 
+__Portfolio 1__ – Logan Gehringer https://instructure.charlotte.edu/eportfolios/4365/home/home 
 
 
 a.	Navigability: For the most part, a reader is easily able to locate any specific piece of information within 60 seconds. While most major project sections are easily accessible, this author failed to separate his initial A1 project from his About Me statement, making his initial work harder to find and separate. Despite that his projects from A2 and beyond are properly titled for easy navigation through any specific project, whether by project name or project number. 
@@ -21,7 +21,7 @@ c.	Evidence of Reasoning: This author includes not only the final product but th
 d.	Professional Tone: the language meets the stand of a document you would hand to an employer. It maintains a casual but not informal word structure, maintaining detail without unnecessary word fluff. his project analysis is long but only due to the detail of his analysis on his own failures and subsequent success.
 
 
-Portfolio 2 - Shrey Banugaria_ https://shreybanugariya.github.io/
+__Portfolio 2__ - Shrey Banugaria_ https://shreybanugariya.github.io/
 
 
 a.	.  Navigability: With a cleary outlined Menu button, a reader can locate any specific assignment or piece of work in under 60 seconds. The user made sure to make important links easily accessible through a drop-down menu. Whether searching for projects, skills certifications, contacts or more the drop down menu brings a user directly to anything you could need to search for in one click.
@@ -36,7 +36,7 @@ c.	Evidence of reasoning: there is a lack of reasoning within each project; howe
 d.	Professional tone: The language meets the standard of a document that you would hand to an employer, short and to the point. While detailed descriptions are important, this author is able to convey the project purpose without discussing certain project details. Their description of themselves is to the point, with most descriptions made up a short phrased bullet points.
 
 .
-Task B:  Product Analysis (25%)
+__Task B: Product Analysis__
 
 
 a.	Primary Product Function:The primary function of an Owala Freesip water bottle is to contain and seal a liquid while minimizing the heat transfer between the liquid and the surrounding environment. Mechanically, the water bottle uses a sealable containment system to avoid leakage while using an insulated wall structure to reduce the rate of thermal energy transfer out or into the liquid. Using multiple layers of insulation, it includes a vacuum-insulated region between the walls to reduce heat transfer by conduction and convection. As the Vacuum contains very little matter within, very few particles are able to transfer thermal energy away. 
@@ -94,5 +94,11 @@ One noticeable design decision was the use of silicone to create the seal on the
   
 4.	Your Documentation Standard : My documentation standard for the year is to have my analysis be long due to it’s detail and not bloating.
 
-## Communicate
+## __Communicate__
 
+My Name is Bobby Douglas. I’m a Mechanical Engineer leaning toward an energy concentration at the University of North Carolina at Charlotte. Since a young age, I’ve always been fascinated by moving parts and how forces drive the world; growing up watching siblings study in similar degrees helped lead me to this field, curious about mechanical systems. The concept of moving parts and the theories to explain them were a big driving force throughout; each moving part could contribute to a simple system. And each simple system could contribute to complex robotic structures, aeronautical vehicles, or high-speed racing.
+
+ It wasn’t until college that I ever really took a look at energy production and such as a viable concentration. Originally, like most, leaning toward automotive or aeronautics was the expectation, but I realized it was never the vehicles themselves but the way they generated power. Power became my focus, from hydroelectric to wind to more efficient combustion. Now, as a 3rd-year engineer, I hope to dive deeper into power generation and participate in electronic power generation research and participate in on campus clubs to further my career aspirations. 
+
+
+Defend an engineering decision: to defend an engineering decision means to state your decision, show past failures and revisions that led to the current iteration. Engineering is not only about the final product but about the previous revisions that showcase project analysis that influence decisions to show your doing more than making an educated guess. Whether that’s physical iterations or attempted governing equations that proved ineffective.
