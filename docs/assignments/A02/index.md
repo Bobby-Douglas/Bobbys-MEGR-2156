@@ -116,7 +116,8 @@ AI questions asked regarding the failure points the truss members include, “Is
 
 My CAD file for the 3d truss [ [CAD folder.zip](https://github.com/user-attachments/files/31731550/CAD.folder.zip)]
 
-PDF for my A2 assignment [[Assignment 2 mm.pdf](https://github.com/user-attachments/files/31732288/Assignment.2.mm.pdf)]
+PDF for my A2 assignment [[Bobbys-MEGR-2156_docs_assignments_A02_index.md at main · Bobby-Douglas_Bobbys-MEGR-2156.pdf](https://github.com/user-attachments/files/31732396/Bobbys-MEGR-2156_docs_assignments_A02_index.md.at.main.Bobby-Douglas_Bobbys-MEGR-2156.pdf)
+]
 
 **Work cited:**
 1. TEVEMA
