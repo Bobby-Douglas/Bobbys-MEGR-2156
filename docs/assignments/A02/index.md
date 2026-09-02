@@ -112,7 +112,9 @@ Before I begin on the likelihood of failure modes in truss components, I will sa
 
 AI questions asked regarding the failure points the truss members include, “Is steel ductile or brittle in normal conditions”, “Is a steel beam under compression more likely to yield, buckle, or fracture?”.  “Is a diagonal steel beam under tension more likely to yield, buckle, or fracture?”, “can you provide me with sources for why yielding is the primary risk”. And “Likely failure of a tool steel pin connection”
 
+**LINKS BELOW**
 
+My CAD file for the 3d truss [ [CAD folder.zip](https://github.com/user-attachments/files/31731550/CAD.folder.zip)]
 
 **Work cited:**
 1. TEVEMA
