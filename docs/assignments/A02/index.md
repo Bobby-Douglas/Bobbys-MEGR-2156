@@ -116,6 +116,8 @@ AI questions asked regarding the failure points the truss members include, “Is
 
 My CAD file for the 3d truss [ [CAD folder.zip](https://github.com/user-attachments/files/31731550/CAD.folder.zip)]
 
+PDF for my A2 assignment [[Assignment 2 mm.pdf](https://github.com/user-attachments/files/31732288/Assignment.2.mm.pdf)]
+
 **Work cited:**
 1. TEVEMA
 TEVEMA Marketing. "Can Steel Fail in Compression? Uncovering the Facts." TEVEMA, 6 May 2024, www.tevema.com/can-steel-fail-in-compression/. 
