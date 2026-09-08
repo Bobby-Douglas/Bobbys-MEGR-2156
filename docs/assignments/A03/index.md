@@ -91,6 +91,7 @@ Just like before I ran both a simulation on the new beam, using said simulation 
 
 ### Here are the CAD files for this project: [A3 files.zip](https://github.com/user-attachments/files/31956372/A3.files.zip)
 
-### Here is the PDF file of this document
+### Here is the PDF file of this document: [A3.pdf](https://github.com/user-attachments/files/31956596/A3.pdf)
+
 
 
