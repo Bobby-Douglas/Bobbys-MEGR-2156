@@ -1,8 +1,6 @@
 # A5 – [Topic]
 
-## Objective
-
-
+## Objecti
 ## Analyze
 
 
