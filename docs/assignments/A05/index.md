@@ -23,6 +23,13 @@ For Feature 2, using the diameter as the base dimension for the equation of cros
 
 <img width="722" height="964" alt="image" src="https://github.com/user-attachments/assets/bf2cab18-442f-4910-9ca4-91fd355a2f22" />
 
+Feature 3 was stated to be simply supported beam and was treated as such, calculating the moment to find each force, F3 and F4 where determined to each be half the force of F3, or 600lb force. as a different beam was used a different equation was required to solve for the stress. However, now, as it’s being gone over the realization that the equation used for Feature 1 was incorrect and should be the same as the one used in Feature 3. 
+The equation in question is stress = Mc/I, and means that feature 1 and 2 are incorrect, however already in the analysis step so it’s too late. Feature 3 doesn’t require the dimensions of the first 2 and instead is given as base = 2b +a, where the base is from the equation for moment of inertia, given as I = b*h^3/12. Solving for the height and multiplying by a safety factor of 4, we find that h is equal to 0.316 inches. Also, for reference of all other features in the stress calculations for the parameters of this part, the length will be equal to 2.25 inches to avoid overhang from the beam section, and as each other feature is within a cube, they will have the Length dimensions. 
+
+<img width="703" height="938" alt="image" src="https://github.com/user-attachments/assets/82f24d8b-ec73-4426-b7df-dba211231390" />
+
+Feature 4, like Feature 3, is determined by the given values of a, b, or c; in this case, it’s specifically determined by the given length c, which is 1.499 in. As the beam is under uniform strain, we can use the equation Sy = F/A to find the dimensions of the cross sectional dimension we are missing. Multiplying the result by a safety factor of 4, h is found to be 0.0445 inches. As there are only 2 forces acting in the z direction, the force opposing the load on the beam is equal to the amount of the load applied to that section of beam, or F4 is equal to F5.
+
 ## Analyze
 
 
