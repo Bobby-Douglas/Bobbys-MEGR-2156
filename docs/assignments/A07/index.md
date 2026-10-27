@@ -116,4 +116,5 @@ Here are the links to all the models and Analysis's used in Calculations
 
 ### Models Folder: [A7hw.zip](https://github.com/user-attachments/files/34030852/A7hw.zip)
 
-### PDF of document 
+### PDF of document: [A7.pdf](https://github.com/user-attachments/files/34030946/A7.pdf)
+
