@@ -111,3 +111,9 @@ The final change made to the design came in lowering the radius from 1.5 inches 
 These are the results and their corresponding locations and such.
 
 <img width="689" height="421" alt="Screenshot 2026-10-27 122357" src="https://github.com/user-attachments/assets/c4c73931-4781-44af-b063-480f09869169" />
+
+Here are the links to all the models and Analysis's used in Calculations 
+
+### Models Folder: [A7hw.zip](https://github.com/user-attachments/files/34030852/A7hw.zip)
+
+### PDF of document 
