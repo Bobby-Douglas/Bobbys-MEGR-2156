@@ -80,7 +80,8 @@ Link to the external website used:https://www.gates.com/content/dam/documents-li
 
 
 
-PDF of A9:
+PDF of A9:[A9.pdf](https://github.com/user-attachments/files/34626671/A9.pdf)
+
 
 
 
